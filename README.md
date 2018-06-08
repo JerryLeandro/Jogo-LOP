@@ -1,5 +1,7 @@
 # Projeto LoP
 
+Projeto final da disciplina de Lógica de Programação (LOP) da UFRN.
+
 >> versão utilizada no projeto: 2.1.3 godot
 # Executar o projeto
 
